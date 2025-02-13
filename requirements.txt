@@ -1,0 +1,8 @@
+langchain_ollama
+langchain
+python-dotenv
+langsmith
+langchain-community
+pymysql
+selenium
+bs4
